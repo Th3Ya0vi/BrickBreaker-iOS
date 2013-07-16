@@ -7,7 +7,7 @@ Implemented in Objective-C
 Implemented a game called "Brick Breaker" for the iOS platform (iPhone, iPad, etc.).
 
 Features
---------
+---------
 
 -> Paddle controlled by dragging gesture
 
