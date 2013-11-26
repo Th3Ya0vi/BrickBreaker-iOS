@@ -1,4 +1,4 @@
-Erik Paluka, Jason Ng, Brittany Kondo. Winter 2012.
+Erik Paluka. Winter 2012.
 
 iOS Brick Breaker Game
 
